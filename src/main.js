@@ -1,6 +1,7 @@
 import Vue from "vue";
 import App from "./App.vue";
-import "lib-flexible";
+// import "lib-flexible";
+import "lib-flexible/flexible.js";
 Vue.config.productionTip = false;
 
 new Vue({
